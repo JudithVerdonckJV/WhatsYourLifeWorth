@@ -12,7 +12,7 @@ I ended with a function that could pretty much do it all.
 
 ![Code snippet: shooting function](Images/WYLW_Code01.png)
 
-[Link to the actual function.](Scripts/BaseClasses/BaseShootingBehavior.cs)
+[Link to the actual function.](https://github.com/JudithVerdonckJV/WhatsYourLifeWorth/blob/9a821089fe726f52b2f2f4adf2c986e16cbfc308/Scripts/BaseClasses/BaseShootingBehaviour.cs#L59-L131)
 
 For the simple AI in the game, this meant a single call to this function would generate an entire pattern of bullets, from a bullet-per-second to multiple waves all around. For example, this is how one of the bosses in the game generates their attack pattern:
 
