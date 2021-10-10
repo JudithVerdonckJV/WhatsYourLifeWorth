@@ -19,3 +19,5 @@ For the simple AI in the game, this meant a single call to this function would g
 ![Code snippet: ai using shooting function.](Images/WYLW_Code02.png)
 
 After this was tackled, the rest was build up layer by layer. Story was put in place, interactive items were highlighted, some rooms were added and then time was up - after all, we only had 6 weeks for this project.
+
+![Screenshot of WYLW gameplay](Images/WYLW_01.png)
